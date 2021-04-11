@@ -1,0 +1,10 @@
+.columns{
+    overflow: auto;
+    height: 94vh;
+}
+.columnsList{
+    display: grid;
+    padding-left: 0;
+    list-style-type: none;
+    
+}

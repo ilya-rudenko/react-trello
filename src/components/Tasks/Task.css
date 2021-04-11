@@ -1,0 +1,10 @@
+.task{
+    border:2px solid black;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 0px 0; /* to change bugs */
+    background-color: #fcfcf9;
+    
+    color: black;
+  }
+  

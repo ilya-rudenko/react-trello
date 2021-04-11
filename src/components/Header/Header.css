@@ -1,0 +1,10 @@
+.header{
+    color:black;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    opacity: 0.7;
+    background-color: transparent;
+
+    height: 4vh;
+}

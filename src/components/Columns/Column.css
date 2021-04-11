@@ -1,0 +1,66 @@
+.columnWrapper{
+    display: inline; 
+    margin-left: 15px;
+
+    background-color: #28314E;
+    border: 1px solid gray;
+    padding: 8px 15px;
+    border-radius: 5px;
+    color:#ffffff;
+    font-size: 18px;
+    font-family: roboto;
+    max-height: 89vh;
+    height: fit-content;
+    /* overflow-y: auto;  */
+    /* width: 10vw; */
+}
+.columnTitle{
+    display: flex;
+    text-align: center;
+    font-weight:bold;
+    justify-content: space-between;
+}
+
+
+.tasks{
+    list-style-type:none;
+    padding-left: 0;
+}
+.showInputFormButton{
+    opacity: 0.85;
+    border: 1px solid black;
+    margin-top: 2px;
+    border-radius: 5px;
+    width: 10.78vw;
+    height: 22px;
+}
+.addTaskButton{
+    margin-top: 5px;
+    background-color: green;
+    font-size: small;
+    justify-content: left;
+    
+    border-radius: 5px;
+}
+.cancelTaskButton{
+    margin-top: 5px;
+    background-color: red;
+    font-size: small;
+    border-radius: 5px;
+}
+.input{
+    margin-top: 5px;
+    width: 10.4vw;
+    border-radius: 5px;
+}
+.closeButton{
+    font-size:x-large;
+    color:white;
+    border-radius: 6px;
+    background-color: transparent;
+    border: transparent;
+}
+.taskButtons{
+    display: flex;
+    justify-content: space-between;
+}
